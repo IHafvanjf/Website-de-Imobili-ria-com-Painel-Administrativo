@@ -62,11 +62,19 @@ O sistema está hospedado e disponível para visualização:
 
 <div align="center">
 
-  <!-- Substitua os links abaixo pelas imagens reais do seu projeto -->
-  <img src="https://github.com/user-attachments/assets/EXEMPLO-IMAGEM-1" height="520" style="margin:0 10px; vertical-align:top;" alt="Página Inicial da Imobiliária">
-  <img src="https://github.com/user-attachments/assets/EXEMPLO-IMAGEM-2" height="520" style="margin:0 10px; vertical-align:top;" alt="Painel Administrativo de Imóveis">
+  <!-- Linha 1 -->
+  <img src="https://github.com/user-attachments/assets/2f58eb24-ce1d-4c09-8574-5cd0142ff41b" height="380" style="margin:0 10px; vertical-align:top;" alt="Seção 1">
+  <img src="https://github.com/user-attachments/assets/89089eeb-90e0-4253-babf-d48fd94fd437" height="380" style="margin:0 10px; vertical-align:top;" alt="Seção 2">
+  <img src="https://github.com/user-attachments/assets/259e31b8-dac5-4ade-89c3-915144eef2f7" height="380" style="margin:0 10px; vertical-align:top;" alt="Seção 3">
+
+  <br>
+
+  <!-- Linha 2 -->
+  <img src="https://github.com/user-attachments/assets/567db262-2a26-4ec5-9c16-2281e03fae2f" height="380" style="margin:10px 10px 0; vertical-align:top;" alt="Seção 4">
+  <img src="https://github.com/user-attachments/assets/a206436f-4cd8-4f50-96c9-dcf6cc3382b7" height="380" style="margin:10px 10px 0; vertical-align:top;" alt="Seção 5">
 
 </div>
+
 
 ---
 
