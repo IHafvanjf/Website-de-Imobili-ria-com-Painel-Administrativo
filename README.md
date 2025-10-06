@@ -1,5 +1,7 @@
 # Sistema Web de Imobiliária
 
+**Última revisão:** 08-2025
+
 Aplicação web desenvolvida com fins de **estudo e portfólio**, simulando uma plataforma completa de **gestão imobiliária**, com foco na experiência do usuário e em um design moderno, fluido e responsivo.
 
 > Projeto de demonstração — desenvolvido apenas para fins de estudo e exibição no portfólio AllTech Websites.
